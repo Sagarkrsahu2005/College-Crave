@@ -100,7 +100,7 @@ export default function ProfilePage() {
               <span className="text-sm font-medium">Rewards Progress</span>
               <span className="text-sm text-orange-500">750/1000 points</span>
             </div>
-            <Progress value={75} className="h-2" indicatorClassName="bg-orange-500" />
+            <Progress value={75} className="h-2" />
             <p className="text-xs text-muted-foreground mt-2">Earn 250 more points to reach Platinum status</p>
           </div>
         </motion.div>
