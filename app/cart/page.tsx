@@ -111,7 +111,7 @@ export default function CartPage() {
             </div>
             <div className="mt-2 flex items-center text-sm text-muted-foreground">
               <MapPin className="h-4 w-4 mr-2" />
-              <span>Delivery address: 123 College St, Anytown, USA</span>
+              <span>Delivery address: 123 College, Greater Noida , Uttar Pradesh</span>
             </div>
           </CardContent>
         </Card>
